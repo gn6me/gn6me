@@ -5,6 +5,7 @@
 - An AI that can play Castlevania using PyTorch and NESPy
 - An improved version of Schalidle built in Django
 - A large scale data scraper built with Python that can be used across various fan wikis of different games
+- Packaging my dotfiles for a repo release
   
 📖 I’m currently learning:
 
